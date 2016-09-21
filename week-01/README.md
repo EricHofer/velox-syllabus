@@ -1,5 +1,5 @@
 # Week 1 - Basics and Tools
-Learn how to use the tools.
+Learning how to use the tools.
 
 ## Days
  - [Introduction](1-introduction)
@@ -8,52 +8,51 @@ Learn how to use the tools.
  - [HTML, CSS](4-html-css)
  - [Create own CV](5-cv)
 
-## Expected skills till end of the week
+## Expectations (skills, understanding and capability gained by the end of the week)
  - Create, open, modify files using the editor
  - Internet:
    - Able to explain the purpose of the internet related protocols: HTTP, HTTPS, IP, TCP
    - Tell the magnitude of highest possible stored numbers in Bit and Byte related measures, eg: 2 Bytes -> 65k
    - Explain how a DNS server works and what it's purpose
-   - Tell if an IP address is valid
-   - Explain what a router do
+   - Determine if an IP address is valid
+   - Explain what a router does
    - Explain the mechanism of public key encryption
-   - Tell how these hacking methods are working: DDos, Virus, Phising, Backfor
+   - Describe how hacking methods such as DDos, Virus, Phising and Backfor work
  - Command Line:
-   - Travesing directories
-   - Copy, Move, Delete, Create files and directories
+   - Traverse directories
+   - Able to Copy, Move, Delete, Create files and directories
    - Modify the content of a file
    - Basic usage of: `pwd`, `mkdir`, `rmdir`, `ls`, `cd`, `cp`, `mv`, `rm`, `touch`, `grep`, `echo`, `cat`, `sort`, `uniq`, `wc`
-   - Understanding stdout, stderr and redirection with | and >
- - Git
-   - Understandig what is a repository for
-   - Use sta stages of the git workflow:
+   - Understanding stdout, stderr and redirection using '|' and '>'
+ - GitHub:
+   - Explain what purpose a repository serves
+   - Use 'sta' stages of the git workflow, namely:
      - add / remove 
      - commit
      - push
-   - Using cli git client
-   - Using GitHub and it's collaborative features
- - Developer Tools:
-   - View a page's source
-   - Inspect Element
-   - Modify HTML content
-   - Modify CSS properties
-   - Toggle CSS properties
+   - Use the cli git client
+   - Use GitHub and its collaborative features
+ - Use Webpage Developer Tools to:
+   - View source
+   - Inspect the elements
+   - Modify HTML content 
+   - Modify and toggle CSS properties
    - Add new CSS properties
  - HTML + CSS:
-   - Follow indentation guidelines
+   - Explain the benefit and follow indentation guidelines
    - Write valid HTML and CSS code
-   - Understanding Doctype
-   - Using tags: `<html>`, `<head>`, `<link>`, `<script>`, `<body>`, `<meta>`, `<title>`, `<h1>` - `<h6>`, `<p>`, `<a>`, `<img>`, `<article>`, `<aside>`, `<strong>`, `<em>`, `<span>`, `<div>`, `<header>`, `<main>`, `<aside>`,`<footer>`, `<section>`, `<ul>`, `<ol>`, `<li>`, `<dd>`, `<dt>`, `<pre>`, `<blockquote>`, `<hgroup>`, `<nav>`, `<q>`
-   - Understanding the semantic meaning of tags
-   - Coloring backgrounds and fonts
-   - Creating Paddings, Borders and Margins
+   - Understand what 'Doctype' denotes
+   - Use tags: `<html>`, `<head>`, `<link>`, `<script>`, `<body>`, `<meta>`, `<title>`, `<h1>` - `<h6>`, `<p>`, `<a>`, `<img>`, `<article>`, `<aside>`, `<strong>`, `<em>`, `<span>`, `<div>`, `<header>`, `<main>`, `<aside>`,`<footer>`, `<section>`, `<ul>`, `<ol>`, `<li>`, `<dd>`, `<dt>`, `<pre>`, `<blockquote>`, `<hgroup>`, `<nav>`, `<q>`
+   - Understand the semantic meaning of tags
+   - Set Color backgrounds and fonts, including
+     - Use Google web fonts
+     - Understand the color codes and know some 'named' colors
+   - Create Paddings, Borders and Margins
    - Specify sizes
-   - Using background images
-   - Using google web fonts
-   - Understanding Color codes 
-   - Understanding class and id
-   - Default browser styles
-   - Select any element
+   - Use background images
+   - Understand what is a 'class' and an 'id' in HTML and CSS; and the purpose such serves
+   - Understand what the 'default browser' styles
+   - Select any element of the HTML DOM
      - Descendant
      - Multiple elements
      - Combine
@@ -62,17 +61,18 @@ Learn how to use the tools.
      - Child
      - Adjacent
      - Pseudo
-     - first-child, last-child, nth-child, nth-type
-   - Understand how css resolves conflic
-   - Cascade
-   - Inheritance
-   - Important
-   - Specificity
-   - Box model
-   - Shorthands
+     - First-child, Last-child, Nth-child and Nth-type
+   - Understand how css resolves conflict
+   - Grasp the following concepts
+     - Cascade
+     - Inheritance
+     - Important
+     - Specificity
+     - The Box Model
+     - Font styling
+     - Inline/block element
+   - Learn shorthands
    - Avoid code duplication
-   - font styling
-   - inline/block element
 
 ## Demo description
 Understanding tools like git, command line, editor, kanban board, etc, building a simple HTML CV with CSS.
